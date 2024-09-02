@@ -1,4 +1,4 @@
-# Swastha: Advanced Electronic Health Record (EHR) System
+# Swastha: Advanced Electronic Health Record (EHR) System ( IN PROGRESS )
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -29,7 +29,7 @@
 - **Programming Languages**: Python
 - **Machine Learning Frameworks**: Scikit-Learn, LangChain
 - **Data Visualization**: Matplotlib, Seaborn
-- **Database**: SQLite (or specify if another is used)
+- **Database**: SQLite/SQL/MySQL
 - **Other Tools**: Jupyter Notebook, Pandas, NumPy
 
 ## Dataset
